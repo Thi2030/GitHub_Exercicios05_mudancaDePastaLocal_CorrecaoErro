@@ -7,7 +7,7 @@
 
 		1. Introdução: Contexto do problema.
 
-			Mudar repositório de pasta local para uma outra pasta diferente (também local),
+			Ao Mudar o repositório de pasta local para uma outra pasta diferente (também local),
 			acusou alguns erros. Heis aqui algumas soluções para concertar.
 
 		2. GitHub acusando ERRO do Nome de USUARIO + EMAIL:
