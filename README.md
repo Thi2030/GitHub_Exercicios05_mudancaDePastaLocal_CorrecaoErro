@@ -1,2 +1,3 @@
 # teste06
- wdwddww
+
+Fiz um "git status" no terminal e libereou o comando COMMIT + PUSH.
